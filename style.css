@@ -49,11 +49,14 @@ header h2 {
 	max-width: 1000px;
 }
 #bio-image {
+	display: block;
 	float: left;
 	margin-right: 15px;
 	padding-top: 8px;
 }
 #main-body p {
+	display: block;
+	float: left;
 	line-height: 1.7em;
 	margin-top: 0;
 }
@@ -126,5 +129,5 @@ nav li a {
 
 }
 img {
-	width: 300px;
+	width: 400px;
 }
