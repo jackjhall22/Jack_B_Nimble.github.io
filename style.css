@@ -2,9 +2,6 @@
 @font-face { 
 	font-family: Logo; src: url('fonts/logo.ttf'); 
 } 
-@font-face { 
-	font-family: Body; src: url('fonts/body.ttf'); 
-} 
 
 /* GENERAL */
 body {
